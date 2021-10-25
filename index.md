@@ -6,5 +6,5 @@
 
 This sentence was changed by Atom.
 
-# ![test.JPG](test.JPG)
-# ![i1.jpg](i1.jpg)
+# ![test.JPG]()
+# ![](i1.jpg)
