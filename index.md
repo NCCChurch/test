@@ -5,6 +5,7 @@
 ##### This is a test 5
 
 This sentence was changed by Atom.
+<font color="#dd0000">浅红色文字：</font><br />
 
 21:59
 
