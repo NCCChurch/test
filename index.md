@@ -5,7 +5,8 @@
 ##### This is a test 5
 
 This sentence was changed by Atom.
-<font color="#dd0000">浅红色文字：</font><br />
+<font color="#dd0000">浅红色文字沙发沙发上：</font><br />
+$\color{red}{blue}$
 
 21:59
 
