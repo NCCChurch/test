@@ -1,3 +1,5 @@
+title:false
+
 | <img src="LOGO.jpg" alt="LOGO" style="zoom:13%;" /> | ##新城基督教会 主日证道录音 |
 | ------------------------------------------------------------ | ------------------------- |
 ![](https://komarev.com/ghpvc/?username=Nccchurch)
