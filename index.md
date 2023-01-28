@@ -12,3 +12,4 @@ https://github.com/NCCChurch/230123/blob/main/images/1.jpg
 ![](https://i.postimg.cc/cC1GcCwv/skeleton-of-kangaroo.jpg)
 ![aaaaaaaaaaaaaaaa](https://i.postimg.cc/cC1GcCwv/skeleton-of-kangaroo.jpg)
 [![skeleton-of-tyrannosaurus.jpg](https://i.postimg.cc/9X1hQPHZ/skeleton-of-tyrannosaurus.jpg)](https://postimg.cc/kDVZjb4g)
+<img src="https://i.postimg.cc/LX3MfLYd/strawberry.png" alt="drawing" width="200"/>
