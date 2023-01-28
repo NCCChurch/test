@@ -9,3 +9,4 @@ https://github.com/NCCChurch/230123/blob/main/images/1.jpg
 
 ![](https://freepngimg.com/download/strawberry/7-2-strawberry-png-hd.png)
 ![](LOGO.jpg)
+[![skeleton-of-tyrannosaurus.jpg](https://i.postimg.cc/9X1hQPHZ/skeleton-of-tyrannosaurus.jpg)](https://postimg.cc/kDVZjb4g)
