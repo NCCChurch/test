@@ -7,7 +7,7 @@ https://github.com/NCCChurch/230123/blob/main/images/1.jpg
 ## 讲员：彭老师
 <audio controls src="https://github.com/NCCChurch/230123/blob/main/230123.mp3"></audio>
 
-![](https://freepngimg.com/download/strawberry/7-2-strawberry-png-hd.png)
+![](https://i.postimg.cc/LX3MfLYd/strawberry.png)
 ![](https://i.postimg.cc/9X1hQPHZ/skeleton-of-tyrannosaurus.jpg)
 ![](https://i.postimg.cc/cC1GcCwv/skeleton-of-kangaroo.jpg)
 
